@@ -35,7 +35,7 @@ Schematic of an assignment module with channel amplifier and switching matrix.
 - **Title block:** (347, 21)–(432, 56) mm: WES · WARD-BECK SYSTEMS · M568U · ASSIGNMENT MODULE · SCHEMATC · SCALE · 568- 02-019
 - **Wiring (first pass):** 69 connected wire groups from 659 runs; labelled ends: 845 mm → 33.34; 436 mm → SIBRO; 196 mm → 22/25, 4 71c, 2725, 22/28; 89 mm → 22/23, 01/10o; 81 mm → 22/25, 4 71c
 
-Every curve, box, word and wire group: [19xx - 568-02-019 - M568U ASSIGNMENT MODULE SCHEMATIC - DRN GEB - ISS 1 (traced).json](../SCHEMATICS/19xx%20-%20568-02-019%20-%20M568U%20ASSIGNMENT%20MODULE%20SCHEMATIC%20-%20DRN%20GEB%20-%20ISS%201%20(traced).json) (the CAD file: `19xx - 568-02-019 - M568U ASSIGNMENT MODULE SCHEMATIC - DRN GEB - ISS 1 (traced).dxf`).
+Every curve, box, word and wire group: [19xx - 568-02-019 - M568U ASSIGNMENT MODULE SCHEMATIC - DRN GEB - ISS 1 (traced).json](../SCHEMATICS/19xx%20-%20568-02-019%20-%20M568U%20ASSIGNMENT%20MODULE%20SCHEMATIC%20-%20DRN%20GEB%20-%20ISS%201%20%28traced%29.json) (the CAD file: `19xx - 568-02-019 - M568U ASSIGNMENT MODULE SCHEMATIC - DRN GEB - ISS 1 (traced).dxf`).
 
 ## Full text
 

@@ -33,7 +33,7 @@ Wiki page: [M568](../../../../PAGES/M568.md)
 - **Words (OCR):** 83 in 69 lines: 0.110 DIA · & CSK 82 DEG · PITCHES OF 1.608 · 4.823 · To 0.175 DIA · PLACES · 0.894 · 7.000 · 1.19 · 4.78 · CSK 82 DEG TO · 0.13 DIA
 - **Title block:** (250, 16)–(420, 85) mm: 411/87 · #2 CSK HOLES ADDED, 0.691 · 0.570 · REVISION · (ISSUE] DATE · APP · WBS · WARD-BECK SYSTEMS · D.S: 11/87 · DRN: · ENG_ · EXTRUSION · CKD · APP · SCALE · DISC NO: 195 · ISSUE · 568-03-031 · CO
 
-Every curve, box, word and wire group: [1987 - 568-03-031 - EXTRUSION - DRN DS - ISS 2 (traced).json](../MECHANICAL/1987%20-%20568-03-031%20-%20EXTRUSION%20-%20DRN%20DS%20-%20ISS%202%20(traced).json) (the CAD file: `1987 - 568-03-031 - EXTRUSION - DRN DS - ISS 2 (traced).dxf`).
+Every curve, box, word and wire group: [1987 - 568-03-031 - EXTRUSION - DRN DS - ISS 2 (traced).json](../MECHANICAL/1987%20-%20568-03-031%20-%20EXTRUSION%20-%20DRN%20DS%20-%20ISS%202%20%28traced%29.json) (the CAD file: `1987 - 568-03-031 - EXTRUSION - DRN DS - ISS 2 (traced).dxf`).
 
 ## Full text
 

@@ -35,7 +35,7 @@ Wiki page: [M568](../../../../PAGES/M568.md)
 - **Title block:** (274, 17)–(427, 86) mm: TRACK< · Se17 · APLE · issue |DATE · REVISION · APP · WBS · WARD-BECK SYSTEMS · DRN_ · ENG · CKD: · FUNCToNAL · APP · SCALE · ISSUE · 563-01-004
 - **Wiring (first pass):** 72 connected wire groups from 300 runs; labelled ends: 266 mm → FAYBAcK; 225 mm → Solo; 182 mm → FAYBAcK; 155 mm → i0dB ); 77 mm → Shins, Bus, M52B
 
-Every curve, box, word and wire group: [1985 - 568-01-004 - M568C M568D TRACK MASTER FUNCTIONAL - ENG ECJ - ISS 2 (traced).json](../SCHEMATICS/1985%20-%20568-01-004%20-%20M568C%20M568D%20TRACK%20MASTER%20FUNCTIONAL%20-%20ENG%20ECJ%20-%20ISS%202%20(traced).json) (the CAD file: `1985 - 568-01-004 - M568C M568D TRACK MASTER FUNCTIONAL - ENG ECJ - ISS 2 (traced).dxf`).
+Every curve, box, word and wire group: [1985 - 568-01-004 - M568C M568D TRACK MASTER FUNCTIONAL - ENG ECJ - ISS 2 (traced).json](../SCHEMATICS/1985%20-%20568-01-004%20-%20M568C%20M568D%20TRACK%20MASTER%20FUNCTIONAL%20-%20ENG%20ECJ%20-%20ISS%202%20%28traced%29.json) (the CAD file: `1985 - 568-01-004 - M568C M568D TRACK MASTER FUNCTIONAL - ENG ECJ - ISS 2 (traced).dxf`).
 
 ## Full text
 
