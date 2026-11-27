@@ -1,16 +1,16 @@
-# M568 · Unsorted
+# M568 Assignment Module · Unsorted
 
 Ward-Beck Systems M568, 1985|18. Wiki page: [M568 on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/PAGES/M568.html)
 
 | Folder | What is in it | Files |
 |---|---|---|
-| [SCHEMATICS/](SCHEMATICS/) | electrical drawings: schematics, functional diagrams, component layouts, wiring | 20 |
-| [MECHANICAL/](MECHANICAL/) | front panels, cover plates, metalwork, assemblies; the front panel as vectors | 4 |
-| [PINOUTS/](PINOUTS/) | the RTO-144 connector: connection sheets, connector layouts, rear views | 1 |
-| [MANUALS/](MANUALS/) | manuals, manual pages, price lists, brochures, documents | 0 |
-| [PHOTOS/](PHOTOS/) | photographs of the module | 0 |
-| [SOFTWARE/](SOFTWARE/) | program listings, firmware, the plugin | 0 |
-| [KICAD/](KICAD/) | KiCad schematics traced from the drawings, the symbol, PCB projects | 6 |
+| [SCHEMATICS/](SCHEMATICS/) | electrical drawings: schematics, functional diagrams, component layouts, wiring | 21 |
+| [MECHANICAL/](MECHANICAL/) | front panels, cover plates, metalwork, assemblies; the front panel as vectors | 6 |
+| [PINOUTS/](PINOUTS/) | the RTO-144 connector: connection sheets, connector layouts, rear views | 2 |
+| [MANUALS/](MANUALS/) | manuals, manual pages, price lists, brochures, documents | 1 |
+| [PHOTOS/](PHOTOS/) | photographs of the module | 2 |
+| [SOFTWARE/](SOFTWARE/) | program listings, firmware, the plugin | 1 |
+| [KICAD/](KICAD/) | KiCad schematics traced from the drawings, the symbol, PCB projects | 7 |
 | [OCR/](OCR/) | the note of every file: date, origin, title block, OCR text | 6 |
 
 <!-- module data: tools/module_specs.py, tools/forum_quotes.py -->
@@ -45,6 +45,11 @@ _KiCad: a schematic (`.kicad_sch`) traced from each electrical drawing, the modu
 - [19xx - 568-02-018 - M568T LINE SEL MASTER ASSIGN MODULE SCHEMATIC - DRN DBS - ENG DBS - ISS 1.kicad_sch](KICAD/19xx%20-%20568-02-018%20-%20M568T%20LINE%20SEL%20MASTER%20ASSIGN%20MODULE%20SCHEMATIC%20-%20DRN%20DBS%20-%20ENG%20DBS%20-%20ISS%201.kicad_sch)
 - [19xx - 568-02-019 - M568U ASSIGNMENT MODULE SCHEMATIC - DRN GEB - ISS 1.kicad_sch](KICAD/19xx%20-%20568-02-019%20-%20M568U%20ASSIGNMENT%20MODULE%20SCHEMATIC%20-%20DRN%20GEB%20-%20ISS%201.kicad_sch)
 - [M568.kicad_sym](KICAD/M568.kicad_sym)
+- [index.html](KICAD/index.html)
+
+## Software
+
+- [index.html](SOFTWARE/index.html)
 
 ---
 Archive: Anthony Peter Kuzub · [WBSps.ca](https://WBSps.ca) · [WBSps.Kuzub.com](https://WBSps.Kuzub.com)
