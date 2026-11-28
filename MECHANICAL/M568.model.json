@@ -1,7 +1,7 @@
 {
  "format": "wbs-model/1",
  "module": "M568",
- "repo": "MODULES.UNSORTED.M568-Assignment-Module",
+ "repo": "MODULES.ROUTING.M568-Assignment-Module",
  "title": "Assignment Module",
  "category": "UNSORTED",
  "units": "mm; x right, y up from the front panel's lower-left corner, z out of the face",
