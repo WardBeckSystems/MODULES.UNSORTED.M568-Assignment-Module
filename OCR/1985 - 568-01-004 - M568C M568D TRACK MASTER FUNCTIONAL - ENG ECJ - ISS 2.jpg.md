@@ -1,5 +1,5 @@
 # 1985 - 568-01-004 - M568C M568D TRACK MASTER FUNCTIONAL - ENG ECJ - ISS 2.jpg
-Wiki page: [M568](../../../../PAGES/M568.md)
+Wiki page: [M568](../)
 
 
 - **Year:** 1985 (title block date)

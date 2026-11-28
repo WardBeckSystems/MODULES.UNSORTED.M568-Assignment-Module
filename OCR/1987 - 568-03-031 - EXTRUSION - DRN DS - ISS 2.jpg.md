@@ -1,5 +1,5 @@
 # 1987 - 568-03-031 - EXTRUSION - DRN DS - ISS 2.jpg
-Wiki page: [M568](../../../../PAGES/M568.md)
+Wiki page: [M568](../)
 
 
 - **Year:** 1987 (title block date)

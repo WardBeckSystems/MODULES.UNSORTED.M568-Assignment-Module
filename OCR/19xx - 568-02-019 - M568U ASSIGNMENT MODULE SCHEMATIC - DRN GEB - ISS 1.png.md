@@ -1,5 +1,5 @@
 # 19xx - 568-02-019 - M568U ASSIGNMENT MODULE SCHEMATIC - DRN GEB - ISS 1.png
-Wiki page: [M568](../../../../PAGES/M568.md)
+Wiki page: [M568](../)
 
 
 - **Year:** unknown (title block (read by eye))

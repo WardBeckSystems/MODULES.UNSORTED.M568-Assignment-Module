@@ -1,5 +1,5 @@
 # 19xx - 568-02-018 - M568T LINE SEL MASTER ASSIGN MODULE SCHEMATIC - DRN DBS - ENG DBS - ISS 1.jpg
-Wiki page: [M568](../../../../PAGES/M568.md)
+Wiki page: [M568](../)
 
 
 - **Year:** unknown (title block (read by eye))

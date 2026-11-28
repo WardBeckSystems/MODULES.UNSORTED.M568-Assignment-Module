@@ -1,5 +1,5 @@
 # 1987 - 568-02-016 - M568R MIC SEL MASTER ASSIGN MODULE SCHEMATIC - DRN PA - ENG PA - ISS 1.jpg
-Wiki page: [M568](../../../../PAGES/M568.md)
+Wiki page: [M568](../)
 
 
 - **Year:** 1987 (title block date)

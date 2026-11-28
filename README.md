@@ -1,6 +1,6 @@
 # M568 Assignment Module · Routing
 
-Ward-Beck Systems M568, 1985|18. Wiki page: [M568 on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/PAGES/M568.html)
+Ward-Beck Systems M568, 1985|18. Wiki page: [M568 on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/WBSps.ca/Github.WardBeckSystems/MODULES.ROUTING.M568-Assignment-Module/)
 
 | Folder | What is in it | Files |
 |---|---|---|
